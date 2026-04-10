@@ -9224,12 +9224,13 @@ h1.page-title + .tag-cloud-list {
   margin-top: 0;
 }
 #aside-content .card-widget .author-info__bottom-group .author-info__desc {
-  font-size: 12px;
+  font-size: 14px;
   color: var(--anzhiyu-white);
-  opacity: 0.6;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
-  filter: alpha(opacity=60);
-  line-height: 1;
+  opacity: 0.8;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  filter: alpha(opacity=80);
+  line-height: 1.4;
+  text-align: center;
 }
 #aside-content .card-widget .author-info__description {
   position: absolute;
